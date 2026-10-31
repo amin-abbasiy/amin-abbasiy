@@ -2,5 +2,4 @@
 
 🐛 I write bugs, then I fix them.
 
-![Funny cat](https://media.giphy.com/media/tqRuohF5okcnb5O43s/giphy.gif)
-
+![Funny cat](Suspicious%20Black%20Cat%20GIF.gif)
