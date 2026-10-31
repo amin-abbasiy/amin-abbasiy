@@ -2,5 +2,5 @@
 
 🐛 I write bugs, then occasionally fix them.
 
-![Funny cat](https://giphy.com/gifs/singing-opera-singer-tqRuohF5okcnb5O43s)
+![Funny cat](https://media.giphy.com/media/tqRuohF5okcnb5O43s/giphy.gif)
 
